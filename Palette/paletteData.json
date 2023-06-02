@@ -41,6 +41,12 @@
                     "name": "overrideButton.tox",
                     "path": "/Custom Node/overrideButton.tox",
                     "type": "file"
+                },
+                {
+                    "id": "2.3.3",
+                    "name": "autoSerial.tox",
+                    "path": "/Custom Node/autoSerial.tox",
+                    "type": "file"
                 }
             ],
             "id": "2.3",
