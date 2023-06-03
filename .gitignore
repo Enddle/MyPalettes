@@ -2,3 +2,4 @@
 # macOS
 .DS_Store
 FontCache/*
+pref.txt
