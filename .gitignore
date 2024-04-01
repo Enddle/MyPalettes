@@ -1,6 +1,11 @@
 
 # macOS
+
 .DS_Store
+
+# TouchDesigner
+
 FontCache/*
-pref.txt
+TDLogs/*
 InstallerCache/*
+pref.txt
